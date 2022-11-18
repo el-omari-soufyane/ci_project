@@ -1,3 +1,5 @@
 class Converter {
     constructor() {}
+
+    convert() {}
 }
