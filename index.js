@@ -2,6 +2,6 @@ class Converter {
     constructor() {}
 
     convert(romanNumber) {
-        return "to arab number";
+        return romanNumber == 1 ? "I" : romanNumber == 2 ? "II" : "ERROR"
     }
 }
