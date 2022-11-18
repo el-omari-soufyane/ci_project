@@ -1,1 +1,5 @@
-console.log("Hello World!")
+class Converter {
+    constructor() {}
+
+    convert() {}
+}
