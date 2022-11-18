@@ -1,5 +1,7 @@
 class Converter {
     constructor() {}
 
-    convert() {}
+    convert(romanNumber) {
+        return romanNumber;
+    }
 }
